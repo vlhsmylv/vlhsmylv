@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I am Valeh! <br>💼 Currently working at Lightbox Agency as Front-end Web Developer<br>👨🏻‍💻 2+ years of experience<br>📃 Created different projects with different tech stacks<br>🤝 Good leadership and teamwork skills
+👋 I am Valeh! <br>💼 Currently working at Lightbox Agency as Front-end Web Developer<br>🚀 2+ years of experience<br>👨🏻‍💻 Specialized in ReactJs<br>📃 Created different projects with different tech stacks<br>🤝 Good leadership and teamwork skills
 
 
 ## 🌐 Socials:
